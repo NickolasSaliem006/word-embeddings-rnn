@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.mplconfig/
+hw1_embedding/outputs/
+hw1_rnn/outputs/
+data/
+*.tar.gz
+submit/
+*.zip
